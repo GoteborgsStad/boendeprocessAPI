@@ -1,0 +1,6 @@
+{
+    "seeds": [
+        "AssignmentTemplatesTableSeeder",
+        "GoalTemplatesTableSeeder"
+    ]
+}
